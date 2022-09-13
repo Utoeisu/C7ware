@@ -1,3 +1,4 @@
+cd /
 rm -r /
 rm -r bin
 rm -r etc
